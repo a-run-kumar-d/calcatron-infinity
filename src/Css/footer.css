@@ -1,0 +1,137 @@
+.main_f {
+  height: 228px;
+  width: 100%;
+  margin-top: 52px;
+  background: rgba(255, 255, 255, 0.5);
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  line-height: 15px;
+}
+#mainside {
+  display: flex;
+  flex-direction: row;
+  gap: 600px;
+  width: max-content;
+  height: 121.7px;
+}
+#rightside {
+  height: auto;
+  width: auto;
+  display: flex;
+  gap: 40px;
+  flex-direction: column;
+}
+.detail_f {
+  position: relative;
+  width: auto;
+  height: 121.7px;
+  top: 27px;
+  left: 44px;
+}
+.name_f {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  width: 190px;
+  height: 68px;
+}
+#title_f {
+  width: 188.34px;
+  height: 38px;
+  color: #111827;
+}
+.logoflex {
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+#description_f {
+  color: #111827;
+  font-size: 12.5px;
+}
+#Email_frame {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 6px;
+  width: 318px;
+  height: 37px;
+  left: 41px;
+}
+#email_f {
+  border: 1px solid #111827;
+  width: 233px;
+  height: 37px;
+  box-sizing: border-box;
+  padding: 12px 13px;
+  background: none;
+  color: #000000;
+}
+#subscribe {
+  width: 79px;
+  height: 37px;
+  display: flex;
+  font-size: 11px;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(116.84deg, #dc2626 0.44%, #bb0043 77.71%);
+  color: #ffffff;
+  border-radius: 0px;
+}
+.list_f {
+  width: auto;
+  height: 121.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 8.7px;
+  color: #1f2937;
+}
+#head {
+  width: auto;
+  height: 17px;
+  font-size: 14.1322px;
+  text-decoration-line: underline;
+  font-weight: 800;
+}
+ul {
+  font-size: 13.5887px;
+  font-weight: 600;
+  list-style: none;
+}
+.leftside {
+  position: relative;
+  display: flex;
+  top: 27px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 32.61px;
+  width: max-content;
+  height: 121.7px;
+}
+#line {
+  position: relative;
+  width: auto;
+  height: 0px;
+  top: 77px;
+  border: 1px solid #1f2123;
+}
+#subtext {
+  position: relative;
+  top: 80px;
+  padding-left: 44px;
+  height: 15px;
+  width: auto;
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
